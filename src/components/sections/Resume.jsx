@@ -35,7 +35,7 @@ export const Resume = () => {
             <div className="mt-6">
               <a
                 href="/Lakshmi Reddy . Java Fullstack Developer_Resume.pdf"
-                download="Lakshmi Reddy_Resume.pdf"
+                download="Lakshmi Reddy . Java Fullstack Developer_Resume.pdf"
                 className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-background font-semibold py-2 px-6 rounded-full transition shadow-lg"
               >
                 <Download className="w-5 h-5" />
