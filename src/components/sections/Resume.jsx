@@ -36,6 +36,8 @@ export const Resume = () => {
               <a
                 href="https://drive.google.com/file/d/1EGwDkGqajCoMzG_EISb_-LkeOdAjIvA7/view?usp=sharing"
                 download="Lakshmi Reddy . Java Fullstack Developer_Resume.pdf"
+                target="_blank"  // Open in a new tab
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-background font-semibold py-2 px-6 rounded-full transition shadow-lg"
               >
                 <Download className="w-5 h-5" />
