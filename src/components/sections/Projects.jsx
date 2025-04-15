@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { RevealOnScroll } from "../RevealOnScroll";
 import { Github, SquareArrowOutUpRight } from "lucide-react";
-import placeholderImage from "../../assets/Placeholder.svg";
+import placeholderImage from "../../assets/placeholder.svg";
 import { createPortal } from "react-dom";
 import clsx from "clsx";
 
