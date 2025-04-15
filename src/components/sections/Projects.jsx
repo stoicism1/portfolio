@@ -154,8 +154,8 @@ export const Projects = () => {
       overview:
         "The State of Maine’s digital modernization project focused on building a resilient, data-driven platform for internal governance workflows and cross-departmental analytics. The solution enables reactive communication between systems via Kafka, real-time visualization through Power BI, and orchestrated automation of multi-actor workflows with Camunda. Built on a microservices architecture and deployed on GCP with full CI/CD pipelines and observability, it empowers state workers and decision-makers with actionable insights.",
       teamSize: "8",
-      liveDemo: "home",
-      github: "home"
+      liveDemo: "#home",
+      github: "#home"
     },    
     {
       title: "HIPAA-Compliant Claims Processing Platform",
@@ -174,7 +174,7 @@ export const Projects = () => {
       overview: "A modern claims processing platform built for NorthWinds Technology Solutions. The system modernized legacy systems, improved adjudication efficiency, reduced fraudulent claims, and streamlined provider interactions. It features a rules-based adjudication engine, provider portals, and comprehensive security measures for HIPAA compliance.",
       teamSize: "8",
       liveDemo: "https://www.northwindstech.com/",
-      github: "home",
+      github: "#home",
     },
     {
       title: "Financial Trade Processing & Analytics Platform",
@@ -195,8 +195,8 @@ export const Projects = () => {
       overview:
         "A robust platform supporting high-volume trade workflows including FX and fixed income products. This system enabled end-to-end automation of trading operations, enhanced with real-time analytics via Kibana and seamless DevOps practices using GitLab and Jenkins. Built to meet financial compliance and performance standards.",
       teamSize: "6",
-      liveDemo: "home",
-      github: "home"
+      liveDemo: "#home",
+      github: "#home"
     },
   ];
 
